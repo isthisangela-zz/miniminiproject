@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_5b0e078314b2a707fd7fa8b3e7a1fbad9fd8d130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha8_69f2bd406989afebc5abd802f22190837de340db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_95a05585232a816f78a80b73c5d68825eb562dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_5c9dbe087d9ebbce24ad711d519210fd55e54bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7afc1b2b49ba7affe04d51b46a6ee5a1b0d23afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a1c1ef8b8b84930aac7bca77cf73a90756c1bf3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_3498f3a6890b0332a533d67ba26e65479d59d41c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_707dcb5763e28fc8471e9f59ce51c9e1a3a44fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_61e8a5554a05c006c1a26957bd72fafcfd828ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_ff664db2355fa08f5d3efea76c4ea05c2191528d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.2.1_2420c615fa3b3efbd304b9f09195df4e86a995c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_5ba97cba45ca5219b8b806dd24d47de47a7c58f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_7f6e5e83ecb2761f42db2a8a6f40497e3c3886c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_3b5bf984bf2bf1637ea1fc22e25912698fe00014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_6585807e6b055db7d283e8124e9911976364c8e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.1_87106e8618d5223f5be6c1b82c46f90525f6e337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_42b69d9f398a5be2c2bc7b61991c24b6ad5768b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_1f6967d8406399feedba1b1953c6ae7bd8920e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_764e611583ec3ff980793a78198269bf7e375567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_349b4d0cbf361d5edf6d8c55a1402d843770a2a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b174d1d525413d4ad722ac7c4378d4dbfb011cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_537b81604a3959c1fbbe44badf5850aee69ff9fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/glide-3.7.0_9a401d81b08d1135b8e778169de8aaf6a92eb6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_559f084219cf28afdee739f24b54acde0fce3b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.1_6d14725a431c91ea4becdd00a3b1076809e9ab8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha8_a9181b137d0156bea7001f2204261fca6b9693c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_2256dc0c448a701ca0fc042baad38cd6acd4cc6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5640d7e2401621349b9498496e7b75c987d4660f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5967ee2ed3c6a0d7e57508850c6733c336dc9487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ae4198ff660903ebf4b1b1c531b7293af1cbd87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_addcbdb41601ead68075d25a8b31c629f8858432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_4f32f1d2e4f461ba92ea1f445443be817bea88cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f239e9bfeeb9f6e6a39ca602530e449b975c03f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_08244be30bcc1ce143ec6a02f1aa22b94cf327ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_41162635ee41eee4dd0225f81b63efefaf176e7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/isthisangela/AndroidStudioProjects/mdbsocials/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_7b3716242e5aa7baecaa686b203544b27f749258.jar" />
+    </item>
+
+</items>
