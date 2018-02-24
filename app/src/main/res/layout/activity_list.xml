@@ -5,7 +5,7 @@
     android:id="@+id/activity_list"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.projects.miniminiproject.mdbsocials.ListActivity">
+    tools:context="com.projects.miniminiproject.miniminiproject.ListActivity">
 
     <android.support.v7.widget.RecyclerView
         android:layout_width="0dp"

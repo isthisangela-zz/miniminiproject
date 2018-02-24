@@ -1,4 +1,4 @@
-package com.projects.miniminiproject.mdbsocials;
+package com.projects.miniminiproject.miniminiproject;
 
 /**
  * Created by Aayush on 10/3/2016.

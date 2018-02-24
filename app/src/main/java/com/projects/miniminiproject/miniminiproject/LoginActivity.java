@@ -1,4 +1,4 @@
-package com.projects.miniminiproject.mdbsocials;
+package com.projects.miniminiproject.miniminiproject;
 
 import android.annotation.TargetApi;
 import android.content.Intent;

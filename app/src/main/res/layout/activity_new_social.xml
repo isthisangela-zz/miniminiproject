@@ -5,7 +5,7 @@
     android:id="@+id/activity_new_social"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.projects.miniminiproject.mdbsocials.NewSocialActivity">
+    tools:context="com.projects.miniminiproject.miniminiproject.NewSocialActivity">
 
     <Button
         android:id="@+id/button2"

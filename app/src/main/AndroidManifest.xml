@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.projects.miniminiproject.mdbsocials">
+    package="com.projects.miniminiproject.miniminiproject">
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.projects.miniminiproject.mdbsocials.LoginActivity"
+            android:name="com.projects.miniminiproject.miniminiproject.LoginActivity"
             android:label="@string/app_name"
             android:theme="@style/SplashTheme">
             <intent-filter>
@@ -23,8 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.projects.miniminiproject.mdbsocials.ListActivity" />
-        <activity android:name="com.projects.miniminiproject.mdbsocials.NewSocialActivity" />
+        <activity android:name="com.projects.miniminiproject.miniminiproject.ListActivity" />
+        <activity android:name="com.projects.miniminiproject.miniminiproject.NewSocialActivity" />
     </application>
 
 </manifest>
